@@ -2,4 +2,4 @@
 _Hic_  
 _Hic_    
 
-![Bois](mrHiccup.gif)
+![Mr.Hiccup has the hiccups](mrHiccup.gif)
