@@ -2,4 +2,4 @@
 _Hic_  
 _Hic_    
 
-![Mr.Hiccup has the hiccups](mrHiccup.gif)
+![Mr.Hiccup has the hiccups](https://raw.githubusercontent.com/SapinSobre/Exercice-Cadavre-Exquis-Nathalie/main/mrHiccup.gif)
