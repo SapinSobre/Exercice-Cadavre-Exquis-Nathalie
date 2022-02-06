@@ -2,6 +2,7 @@
 _I have the hiccups every day_
 **Hic**
 **Hic**
+![Mr.Hiccup has the hiccups](https://raw.githubusercontent.com/SapinSobre/Exercice-Cadavre-Exquis-Nathalie/main/mrHiccup.gif)
 # so I have a headache and went to the doctor
 I cough three times a day
 **cough**
