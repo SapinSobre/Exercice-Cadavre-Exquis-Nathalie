@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 ### I have the hiccups every day.  
 _Hic_  
 _Hic_    
 
 ![Mr.Hiccup has the hiccups](https://raw.githubusercontent.com/SapinSobre/Exercice-Cadavre-Exquis-Nathalie/main/mrHiccup.gif)
-=======
+
 **Nathalie**
 _I have the hiccups every day_
 **Hic**
@@ -23,4 +22,3 @@ I cough three times a day
 # I took some medicine and I feel much better now. I can even understand a few steps in github. 
 **hic** 
 Oh no ! please...
->>>>>>> development
